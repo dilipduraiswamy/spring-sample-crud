@@ -8,7 +8,6 @@ public class SampleProjApplication {
 
 	public static void main(String[] args) {
 		//adding new comment line
-		//adding comments
 		SpringApplication.run(SampleProjApplication.class, args);
 	}
 
