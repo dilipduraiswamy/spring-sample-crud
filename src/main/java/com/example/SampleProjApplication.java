@@ -7,7 +7,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class SampleProjApplication {
 
 	public static void main(String[] args) {
-		//used for running the app
 		SpringApplication.run(SampleProjApplication.class, args);
 	}
 
